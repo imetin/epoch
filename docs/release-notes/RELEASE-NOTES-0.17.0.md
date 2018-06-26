@@ -3,6 +3,7 @@
 [This release][this-release] is focused on TODOFILLMEIN.
 It:
 * Stores the chain state in the database in a more compact way. This affects the persisted chain.
+* Improves HTTP API with proper checks for key sizes.
 * Does this.
 
 [this-release]: https://github.com/aeternity/epoch/releases/tag/v0.17.0
